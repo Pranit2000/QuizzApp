@@ -84,7 +84,7 @@ class _HomepageState extends State<Homepage> {
                     questions[index].question!,
                     style: const TextStyle(
                       color: Colors.white,
-                      fontSize: 28.0,
+                      fontSize: 29.0,
                     ),
                   ),
                   SizedBox(
